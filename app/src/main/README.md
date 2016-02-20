@@ -403,6 +403,8 @@ Android开发团队也是意识到了有必要将HTTP的通信操作再进行简
 
     }
 	
+
+	
 7. 自定义GsonRequest
 
 	
